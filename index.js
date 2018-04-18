@@ -7,7 +7,7 @@
 
 module.exports = Object.assign(
   {},
-  require('../lib/js-feel-cache-plugin'),
-  require('../lib/js-feel-external-function-plugin'),
-  require('../lib/js-feel-relations-plugin')
+  require('./lib/js-feel-cache-plugin'),
+  require('./lib/js-feel-external-function-plugin'),
+  require('./lib/js-feel-relations-plugin')
 );
