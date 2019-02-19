@@ -1,6 +1,6 @@
 {
   "name": "js-feel-plugins",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "description": "oe-cloud modularization project",
   "engines": {
     "node": ">=6"
@@ -32,11 +32,11 @@
     "mocha": "5.2.0",
     "superagent-defaults": "0.1.14",
     "supertest": "3.4.2",
-    "oe-cloud": "git+http://evgit/oec-next/oe-cloud.git#master"
+    "oe-cloud": "git+http://evgit/oecloud.io/oe-cloud.git#master"
   },
   "repository": {
     "type": "git",
-    "url": "git@evgit:oec-next/js-feel-plugins.git"
+    "url": "https://github.com/EdgeVerve/js-feel-plugins.git"
   },
   "license": "MIT"
 }
