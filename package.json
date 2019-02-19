@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "babel-eslint": "7.2.3",
-    "chai": "3.4.1",
+    "chai": "4.2.0",
     "chai-datetime": "1.4.0",
     "chai-things": "0.2.0",
     "chalk": "1.1.1",
