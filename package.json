@@ -10,8 +10,7 @@
     "lint": "eslint .",
     "fix-lint": "eslint --fix ."
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-eslint": "7.2.3",
     "chai": "4.2.0",
